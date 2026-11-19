@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/BudgetsView.tsx","./src/components/Dashboard.tsx","./src/components/ExpensesView.tsx","./src/components/SavingsView.tsx","./src/components/Sidebar.tsx","./src/hooks/useCategories.ts","./src/lib/format.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
